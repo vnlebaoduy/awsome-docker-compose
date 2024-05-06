@@ -39,19 +39,19 @@ Pre-requisite:
 
 1.  Visit <https://container-registry.oracle.com/> and create your new account
 
-[![Image11](../images/oracle1.png)
+![Image1](../images/oracle1.png)
 
 2\. Select Enterprise.
 
-[![Image11](../images/oracle2.png)
+![Image2](../images/oracle2.png)
 
 3\. Click "Sign In"
 
-[![Image11](../images/oracle3.png)
+![Image3](../images/oracle3.png)
 
 4\. Authenticate by entering your registered email ID and password.
 
-[![Image11](../images/oracle4.png)
+![Image4](../images/oracle4.png)
 
 5\. Accept the License and test if the `docker login` is working fine or not.
 
