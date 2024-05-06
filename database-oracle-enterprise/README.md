@@ -39,25 +39,25 @@ Pre-requisite:
 
 1.  Visit <https://container-registry.oracle.com/> and create your new account
 
-[![Image11](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--h0-9TX8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4469g8qpjcdjyjbt71ht.png?ssl=1)](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--h0-9TX8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4469g8qpjcdjyjbt71ht.png?ssl=1)
+[![Image11](../images/oracle1.png)
 
 2\. Select Enterprise.
 
-[![Image12](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--bfT-nnW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o18yenet8jhrgj6h7k1f.png?ssl=1)](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--bfT-nnW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o18yenet8jhrgj6h7k1f.png?ssl=1)
+[![Image11](../images/oracle2.png)
 
 3\. Click "Sign In"
 
-[![Image13](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--N7znzpEV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/veahna9a2kkwuk0xavgq.png?ssl=1)](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--N7znzpEV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/veahna9a2kkwuk0xavgq.png?ssl=1)
+[![Image11](../images/oracle3.png)
 
 4\. Authenticate by entering your registered email ID and password.
 
-[![Image14](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--SKAI_XQ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkbaf96rkls7nqzoya8e.png?ssl=1)](https://i0.wp.com/res.cloudinary.com/practicaldev/image/fetch/s--SKAI_XQ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkbaf96rkls7nqzoya8e.png?ssl=1)
+[![Image11](../images/oracle4.png)
 
 5\. Accept the License and test if the `docker login` is working fine or not.
 
 ```
 docker login container-registry.oracle.com
-Username: ajeetraina@gmail.com
+Username: lebaoduy1993@gmail.com
 Password:
 Login Succeeded
 
